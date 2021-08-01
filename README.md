@@ -1,4 +1,4 @@
-# **Career Transition into Data**
+# **Career Transition into Data and Iot**
 
 
 
@@ -12,4 +12,4 @@ I have a passion to solve problems and help to improve my workplace, I like the 
 
 I also love doing home projects with raspberry pi and open source hardware on which I have developed skill for firmware programming, Python, JavaScript and NodeJS
 
-I hope you find my Data Analyses projects suitable as proof of my skills as programmer and problem solver.
+I hope you find my projects suitable as proof of my skills as programmer and problem solver.
